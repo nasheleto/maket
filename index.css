@@ -1,0 +1,141 @@
+*, *::after, *::before {
+	padding: 0;
+	margin: 0;
+}
+
+html, body {
+	height: 100%;
+}
+.image-container{
+	height: 100%;
+	position: relative;
+}
+.image{
+	height: 100%;
+	width: 381px;
+}
+.icon, .line{
+	cursor: pointer;
+}
+.icon1{
+	position: absolute;
+	left: 15px;
+	top: 35px;
+}
+.icon2{
+	position: absolute;
+	left: 166px;
+	top: 35px;
+}
+.icon3{
+	position: absolute;
+	left: 266px;
+	top: 46px;
+}
+.icon4{
+	position: absolute;
+	left: 10px;
+	top: 214px;
+}
+.icon5{
+	position: absolute;
+	left: 3px;
+	top: 372px;
+}
+.icon6{
+	position: absolute;
+	left: 15px;
+	top: 520px;
+}
+.icon7{
+	position: absolute;
+	left: 260px;
+	top: 544px;
+}
+.icon8{
+	position: absolute;
+	left: 200px;
+	top: 227px;
+}
+.line1{
+	position: absolute;
+	left: 270px;
+	top: 142px;
+}
+.line2{
+	position: absolute;
+	left: 22px;
+	top: 140px;
+}
+.line6{
+	position: absolute;
+	left: 15px;
+	top: 309px;
+}
+.line7{
+	position: absolute;
+	left: 8px;
+	top: 462px;
+}
+.line3{
+	position: absolute;
+	left: 150px;
+	top: 143px;
+	transform-origin: 83px 64px;
+}
+.line4{
+	position: absolute;
+	left: 170px;
+	top: 377px;
+}
+.line5{
+	position: absolute;
+	left: 258px;
+	top: 515px;
+}
+.line8{
+	position: absolute;
+	left: 165px;
+	top: 461px;
+}
+
+.line9{
+	position: absolute;
+	left: 83px;
+	top: 464px;
+}
+.line10{
+	position: absolute;
+	left: 260px;
+	top: 450px;
+}
+.line11{
+	position: absolute;
+	left: 173px;
+	top: 519px;
+}
+.line12{
+	position: absolute;
+	left: 94px;
+	top: 519px;
+}
+.line13{
+	position: absolute;
+	left: 170px;
+	top: 311px;
+}
+.line14{
+	position: absolute;
+	left: 93px;
+	top: 311px;
+}
+.line15{
+	position: absolute;
+	left: 109px;
+	top: 142px;
+}
+.line16{
+	position: absolute;
+	left: 171px;
+	top: 228px;
+}
